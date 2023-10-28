@@ -2,7 +2,7 @@
 
 *Introduction*:
 
-IBM is a leading company with a substantial workforce. To address concerns related to employee attrition, an exploratory data analysis (EDA) is required. The dataset contains various attributes such as age, job satisfaction, tenure, and more.
+IBM is a leading company with a substantial workforce. To address concerns related to employee attrition, an exploratory data analysis (EDA) is required. The dataset contains various attributes such as age, job satisfaction, MonthlyIncome, and more.
 
 *Objective*:
 
